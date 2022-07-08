@@ -6,7 +6,6 @@ work:
     - projects/identityserver/v4
     - projects/apache/log4net
     - projects/identityserver/v3
-  default: true
 
 playground:
   includes:
@@ -28,3 +27,4 @@ playground:
 private:
   includes:
     - components/os/windows-10
+  default: true
